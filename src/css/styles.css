@@ -1,0 +1,35 @@
+body {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+  font-size: 20px;
+}
+
+.converter {
+  display: flex;
+  flex-direction: column;
+  background-color: #B9D5DC;
+  border-radius: 10px;
+  padding: 20px;
+  width: 500px;
+}
+.converter input {
+  margin-bottom: 20px !important;
+}
+.converter input,
+.converter select {
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+  font-size: 15px;
+  margin: 5px;
+}
+.converter h2 {
+  margin: 10px 0 10px 0;
+}
+.converter h3 {
+  margin: 10px 0 0 0;
+}
+.converter p {
+  margin: 0;
+}/*# sourceMappingURL=styles.css.map */
